@@ -29,7 +29,7 @@ Power BI – Interactive dashboard creation
 
 GitHub – Version control and project documentation
 
-Project Workflow
+## Project Workflow
 
 ### Data Understanding
 
